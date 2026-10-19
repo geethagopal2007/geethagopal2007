@@ -88,15 +88,15 @@ A browser automation project covering login flows, form validation, positive and
 
 ## 📊 GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geethagopal2007&show_icons=true&hide_border=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geethagopal2007&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geethagopal2007&layout=compact&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geethagopal2007&layout=compact)
 
 ## 🤝 Connect With Me
 
 Interested in collaborating on software testing, test automation, AI testing, and data science projects.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/geethagopal2007)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github)](https://github.com/geethagopal2007)
 
 ---
 

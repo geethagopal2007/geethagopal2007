@@ -85,23 +85,6 @@ Project repositories and implementation details will be added as the work progre
 - Cybersecurity Career Orientation Program — Technovalley Software India Pvt. Ltd., September–October 2026
 
 
-
-📊 GitHub Overview
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=geethagopal2007&show_icons=true&hide_border=true&theme=default)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=geethagopal2007&layout=compact&hide_border=true&theme=default)
-
-🤝 Connect With Me
-
-""GitHub" (https://img.shields.io/badge/GitHub-geethagopal2007-181717?style=for-the-badge&logo=github)" (https://github.com/geethagopal2007)
-
-📊 GitHub Overview
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=geethagopal2007&show_icons=true&hide_border=true&theme=default)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=geethagopal2007&layout=compact&hide_border=true&theme=default)
-
 🤝 Let's Connect
 
 I am interested in collaborating on software testing, automation, AI testing, and data science projects.

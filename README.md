@@ -39,7 +39,7 @@ Testing & Development Tools
 - Postman
 - Browser Developer Tools
 - Git and GitHub
-- Selenium and Playwright — automation skills in development
+- Playwright — automation skills in development
 
 AI & Machine Learning
 

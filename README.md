@@ -1,124 +1,103 @@
-Hi, I'm Geetha 👋
+# Hi, I'm Geetha 👋
 
-Software Quality Assurance | API Testing | Automation | AI & Machine Learning
+### Software QA Professional | Automation Testing | AI & Machine Learning
 
 Experienced IT professional with nearly 20 years of experience in software quality assurance and government IT projects at Information Kerala Mission (IKM), Kerala.
 
-I am expanding my expertise in test automation, Python, AI/ML, and data analytics to build reliable software systems and explore AI-driven quality engineering.
+I am expanding my expertise in Python automation, API testing, AI/ML, and data analytics to build reliable software and explore AI-driven quality engineering.
 
-Currently pursuing a B.Sc. in Data Science & Analytics, with an expected completion in 2027.
+Currently pursuing a **B.Sc. in Data Science & Analytics**, with expected completion in 2027.
 
-👩‍💻 About Me
+## 👩‍💻 About Me
 
-- 💼 Experience: Software QA and testing in government IT projects
-- 🧪 Core expertise: Manual testing, test case design, defect reporting, and functional validation
-- 🔌 Technical interests: API testing, Python automation, SQL, and test frameworks
-- 🤖 Learning: Machine Learning, AI testing, LLM testing, and data analytics
-- 🎓 Education: B.Sc. Data Science & Analytics — in progress
-- 🎯 Career goal: QA Automation Engineer / SDET / AI QA Engineer
+- 💼 **Experience:** Software QA and testing in government IT projects
+- 🧪 **Core expertise:** Manual testing, test case design, functional testing, regression testing, and defect reporting
+- 🔌 **Technical interests:** API testing, Python automation, SQL, and test frameworks
+- 🤖 **Learning:** Machine Learning, AI testing, LLM testing, and data analytics
+- 🎓 **Education:** B.Sc. Data Science & Analytics — in progress
+- 🎯 **Career goal:** QA Automation Engineer / SDET / AI QA Engineer
 
-🛠️ Skills & Technologies
+## 🛠️ Technology Stack
 
-Software Testing
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-- Manual Testing
-- Functional and Regression Testing
-- Test Case Design and Execution
-- Defect Reporting and Validation
-- API Testing
+![Skills](https://skillicons.dev/icons?i=python,git,github,mysql,vscode)
 
-Programming & Data
+## 🧪 QA & Software Testing Skills
 
-- Python
-- SQL / MySQL
-- JSON
-- Pandas and NumPy
-
-Testing & Development Tools
-
-- Postman
+- Manual and functional testing
+- Test case design and execution
+- Regression testing and defect validation
+- API testing using Postman
+- JSON response validation
 - Browser Developer Tools
-- Git and GitHub
-- Playwright — automation skills in development
+- Python-based test automation — developing skills
+- Playwright and Selenium — learning and practicing
 
-AI & Machine Learning
+## 🤖 AI & Data Science
 
+- Python for data analysis
+- Pandas and NumPy
 - Machine Learning fundamentals
-- Data preprocessing and analysis
-- LLM and prompt testing
+- Data preprocessing and exploratory data analysis
+- Model evaluation and performance metrics
+- LLM and prompt testing fundamentals
 - AI-assisted software quality engineering
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-I am building practical projects to demonstrate my testing, automation, and data science skills.
+### 1. AI Multi-Agent QA Assistant
 
-1. Python API Testing Framework
+An AI-focused project exploring how multi-agent approaches can support software quality assurance.
 
-A Python-based API testing project covering HTTP requests, response validation, JSON assertions, and automated test reporting.
+**Focus areas:** AI-assisted testing, QA workflows, test scenario generation, and intelligent quality engineering.
 
-Planned stack: Python, Requests, Pytest, JSON
+[View Project](https://github.com/geethagopal2007/AI-MultiAgent-QA-Assistant)
 
-2. Web UI Automation Framework
+### 2. Student Performance Prediction
+
+A machine learning project focused on student performance prediction using Python.
+
+**Focus areas:** Data analysis, preprocessing, model training, and evaluation.
+
+[View Project](https://github.com/geethagopal2007/student-performance-prediction)
+
+### 3. Python API Testing Framework — Planned
+
+A practical API testing project covering HTTP requests, response validation, JSON assertions, and automated test reporting.
+
+**Planned stack:** Python, Requests, Pytest, JSON.
+
+### 4. Web UI Automation Framework — Planned
 
 A browser automation project covering login flows, form validation, positive and negative test scenarios, and failure evidence.
 
-Planned stack: Playwright, Python, Pytest
+**Planned stack:** Python, Playwright, Pytest.
 
-3. Machine Learning with Python
+## 🎓 Certifications & Learning
 
-A practical machine learning project covering data cleaning, exploratory analysis, model training, and evaluation.
-
-Planned stack: Python, Pandas, NumPy, scikit-learn
-
-4. API and LLM Testing
-
-An introductory project exploring response validation, structured output checks, prompt variations, and AI application test cases.
-
-Project repositories and implementation details will be added as the work progresses.
-
-🎓 Certifications & Learning
-
-- Hands-on Machine Learning using Python to Model Building and Deployment — Sreenarayanaguru Open University, 2026
+- Hands-on Machine Learning using Python: From Model Building to Deployment — Sreenarayanaguru Open University, 2026
 - Fundamentals of Machine Learning and Artificial Intelligence — AWS Training & Certification, October 2026
 - One Million Prompters — Dubai Future Foundation, 2026
 - AI in Healthcare: Data, Analytics, Ethics & Real-World Applications — Jyothi Engineering College (Autonomous), 2026
 - Cybersecurity Career Orientation Program — Technovalley Software India Pvt. Ltd., September–October 2026
 
+## 📊 GitHub Overview
 
-🤝 Let's Connect
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geethagopal2007&show_icons=true&hide_border=true&theme=default)
 
-I am interested in collaborating on software testing, automation, AI testing, and data science projects.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geethagopal2007&layout=compact&hide_border=true&theme=default)
 
-- GitHub: "@geethagopal2007" (https://github.com/geethagopal2007)
+## 🤝 Connect With Me
+
+Interested in collaborating on software testing, test automation, AI testing, and data science projects.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/geethagopal2007)
 
 ---
 
-Building on years of software QA experience while learning, experimenting, and growing in AI and data science.
-
-📫 Connect With Me
-
-""GitHub" (https://img.shields.io/badge/GitHub-geethagopal2007-181717?style=for-the-badge&logo=github)" (https://github.com/geethagopal2007)
-
-<!--
-**geethagopal2007/geethagopal2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-## 🤝 Connect With Me
-
-Interested in collaborating on software testing, automation, AI testing, and data science projects.
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github)](https://github.com/geethagopal2007)
-
 *Building on years of software QA experience while learning, experimenting, and growing in AI and data science.*
-
-## 💼 Technology Stack
-
-![Skills](https://skillicons.dev/icons?i=python,git,github,mysql,vscode)

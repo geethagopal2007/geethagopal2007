@@ -100,6 +100,14 @@ I am interested in collaborating on software testing, automation, AI testing, an
 
 Building on years of software QA experience while learning, experimenting, and growing in AI and data science.
 
+🧰 Technology Stack
+
+"Skills" (https://skillicons.dev/icons?i=python,git,github,mysql,vscode)
+
+📫 Connect With Me
+
+""GitHub" (https://img.shields.io/badge/GitHub-geethagopal2007-181717?style=for-the-badge&logo=github)" (https://github.com/geethagopal2007)
+
 <!--
 **geethagopal2007/geethagopal2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

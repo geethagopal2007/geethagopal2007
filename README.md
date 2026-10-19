@@ -36,7 +36,7 @@ Currently pursuing a **B.Sc. in Data Science & Analytics**, with expected comple
 - JSON response validation
 - Browser Developer Tools
 - Python-based test automation — developing skills
-- Playwright and Selenium — learning and practicing
+- Playwright — learning and practicing
 
 ## 🤖 AI & Data Science
 

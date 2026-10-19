@@ -115,7 +115,6 @@ Here are some ideas to get you started:
 ## 🤝 Connect With Me
 
 Interested in collaborating on software testing, automation, AI testing, and data science projects.
-
 [![GitHub](https://img.shields.io/badge/GitHub-geethagopal2007-181717?style=for-the-badge&logo=github)](https://github.com/geethagopal2007)
 
 ---
@@ -123,6 +122,6 @@ Interested in collaborating on software testing, automation, AI testing, and dat
 *Building on years of software QA experience while learning, experimenting, and growing in AI and data science.*
 
 -->
-## 🧰 Technology Stack
+## 💼 Technology Stack
 
 ![Skills](https://skillicons.dev/icons?i=python,git,github,mysql,vscode)

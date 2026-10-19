@@ -115,7 +115,8 @@ Here are some ideas to get you started:
 ## 🤝 Connect With Me
 
 Interested in collaborating on software testing, automation, AI testing, and data science projects.
-[![GitHub](https://img.shields.io/badge/GitHub-geethagopal2007-181717?style=for-the-badge&logo=github)](https://github.com/geethagopal2007)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github)](https://github.com/geethagopal2007)
+
 
 ---
 

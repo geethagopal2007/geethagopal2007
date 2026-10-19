@@ -117,12 +117,8 @@ Here are some ideas to get you started:
 Interested in collaborating on software testing, automation, AI testing, and data science projects.
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github)](https://github.com/geethagopal2007)
 
-
----
-
 *Building on years of software QA experience while learning, experimenting, and growing in AI and data science.*
 
--->
 ## 💼 Technology Stack
 
 ![Skills](https://skillicons.dev/icons?i=python,git,github,mysql,vscode)

@@ -1,4 +1,5 @@
 # Hi, I'm Geetha 👋
+![Python QA Tests](https://github.com/geethagopal2007/AI-MultiAgent-QA-Assistant/actions/workflows/python-tests.yml/badge.svg)
 
 ### Software QA Professional | Automation Testing | AI & Machine Learning
 
